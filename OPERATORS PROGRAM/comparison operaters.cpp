@@ -32,12 +32,12 @@ int main()
 
     if (a>=b)
     {
-        cout<<"\nA IS GREATER THAN OR EQUAL";
+        cout<<"\nA IS GREATER THAN OR EQUAL TO B";
     }
 
     if (a<=b)
     {
-        cout<<"\nA IS SMALLER THAN OR EQUAL";
+        cout<<"\nA IS SMALLER THAN OR EQUAL TO B";
     }
 
     return 0;
