@@ -1,2 +1,2 @@
 # OOPs_LAB
-OOPS LAB PRACTICE
+Object Oriented Programming Lab Practice 
